@@ -45,6 +45,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Mr-Rohit-Mishra
-/maurodesouza/output/snake.svg" alt="Snake animation" />
+/Mr-Rohit-Mishra/output/snake.svg" alt="Snake animation" />
 
 ###
